@@ -1,0 +1,81 @@
+{
+  "leaderboard_date": "2026-11-05",
+  "account": "whoashish115",
+  "overall": {
+    "rank": 1073,
+    "ranked": 2014,
+    "problems_counted": 4
+  },
+  "problems": [
+    {
+      "title": "Dense projections",
+      "problem": "muse_bf16_proj",
+      "file": "muse_bf16_proj/submission.py",
+      "retained_version": 39,
+      "private_job": "963a8dafdce5475c",
+      "private_speedup": 1.2420996223785092,
+      "sha256": "f5bbbd22af273fba4a2f7961e339ba0ca3fefb7e39d3f412898f53790a97ac21",
+      "public_version": 35,
+      "public_job": "2739d5d33605451d",
+      "public_speedup": 1.2401804053812686,
+      "rank": 915,
+      "ranked": 1746
+    },
+    {
+      "title": "Gated attention decode",
+      "problem": "muse_attention_decode",
+      "file": "muse_attention_decode/submission.py",
+      "retained_version": 26,
+      "private_job": "50e7815e664a4170",
+      "private_speedup": 1.4012622748269912,
+      "sha256": "7efbb49672912b7fc894a11a025e747e86b94bab41de5edf3c0cc5474bc74b01",
+      "public_version": 26,
+      "public_job": "348af92414614826",
+      "public_speedup": 1.401304419396993,
+      "rank": 1071,
+      "ranked": 1379
+    },
+    {
+      "title": "Routed experts",
+      "problem": "muse_moe_w4a16",
+      "file": "muse_moe_w4a16/submission.py",
+      "retained_version": 36,
+      "private_job": "cc0bef18656f45bc",
+      "private_speedup": 1.359775563527971,
+      "sha256": "1fc7362058e05591b932a852a56f02336165ea7b5c1181d261ae45f6c34f40fe",
+      "public_version": 36,
+      "public_job": "36bf5c715fba44ef",
+      "public_speedup": 1.349198868052062,
+      "rank": 1116,
+      "ranked": 1425
+    },
+    {
+      "title": "Whole decoder layer",
+      "problem": "muse_decode_layer",
+      "file": "muse_decode_layer/submission.py",
+      "retained_version": 24,
+      "private_job": "52c05383720d4e82",
+      "private_speedup": 1.3285967998070585,
+      "sha256": "b925352d887c5b98b8e40333b49ec9f487a0b3a0c364ddaca1c9f6b2d0ef0f6a",
+      "public_version": 23,
+      "public_job": "2832875ada9f4572",
+      "public_speedup": 1.328189665885577,
+      "rank": 1002,
+      "ranked": 1299
+    },
+    {
+      "title": "Prefill layer",
+      "problem": "muse_prefill_layer",
+      "file": "muse_prefill_layer/submission.py",
+      "retained_version": 27,
+      "private_job": "aeb39248bbbd4dc3",
+      "private_speedup": 1.2337433115302676,
+      "sha256": "3f0273ee396a9ae609d6697e7664ccd93062d8374ac15fb88b2c0360b6549f8a",
+      "public_version": 27,
+      "public_job": "1685a8ec532f4591",
+      "public_speedup": 1.2239680057640014,
+      "rank": 701,
+      "ranked": 898
+    }
+  ]
+}
